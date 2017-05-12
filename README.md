@@ -9,9 +9,10 @@ Functionality:
   5. Change background based on current weather for selected city
 
 Screenshots:
-[Seattle Weather](http://i.imgur.com/BROV8jl.png)
-[Austin Weather and Map](http://i.imgur.com/jc8H2mw.png)
-[Madrid Weather](http://i.imgur.com/1OOdnVj.png)
+
+![Seattle Weather](http://i.imgur.com/BROV8jl.png "Seattle Weather")
+![Austin Weather and Map](http://i.imgur.com/jc8H2mw.png "Austin Weather and Map")
+![Madrid Weather](http://i.imgur.com/1OOdnVj.png "Madrid Weather")
 
 
 
